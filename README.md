@@ -6,6 +6,9 @@
 ![image](https://github.com/namishagurunani/major_project-tailwind/assets/126158413/d9d05204-c67f-4160-96b1-efc9a99fc0d0)
 ![image](https://github.com/namishagurunani/major_project-tailwind/assets/126158413/0a585f85-728c-4a99-89e6-636baa16c050)
 
+# Sumbission Required:
+- Github-Link[Click Here](https://github.com/namishagurunani/major_project-tailwind)
+- Hosted-Link[Click Here](https://namishagurunani.github.io/major_project-tailwind/dist/index.html)
 
 
 
